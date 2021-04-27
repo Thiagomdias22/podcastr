@@ -1,4 +1,13 @@
-# podcastr
+<hr />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wilsonneto-dev/NextLevelWeek5-Flutter-Dev-Quiz/master/.github/cover.png"/>
+</p>
+
+<div align="center">
+  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
+</div>
+<br />
 Uma plataforma construída para transmissão de podcast. Desenvolvido durante o treinamento gratuito @Rocketseat NLW # 05.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Thiagomdias22/podcastr?style=for-the-badge)
@@ -7,13 +16,6 @@ Uma plataforma construída para transmissão de podcast. Desenvolvido durante o 
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Thiagomdias22/podcastr?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Thiagomdias22/podcastr?style=for-the-badge)
 
-<div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
-</div>
-
-<h4 align="center">
-  Podcastr is a platform built for podcast broadcasting.
-</h4>
 
 ![Podcastr preview](.github/app-preview.png)
 
