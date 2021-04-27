@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/wilsonneto-dev/NextLevelWeek5-Flutter-Dev-Quiz/master/.github/cover.png"/>
 </p>
 
-<div align="center">
+<div>
   <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
@@ -16,6 +16,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Thiagomdias22/podcastr?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Thiagomdias22/podcastr?style=for-the-badge)
 
+<br />
 
 ![Podcastr preview](.github/app-preview.png)
 
