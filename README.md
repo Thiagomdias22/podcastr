@@ -7,8 +7,8 @@
 <div align="center">
   <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
-<br />
-Uma plataforma construída para transmissão de podcast. Desenvolvido durante o treinamento gratuito @Rocketseat NLW # 05.
+
+## Uma plataforma construída para transmissão de podcast. Desenvolvido durante o treinamento gratuito @Rocketseat NLW # 05.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Thiagomdias22/podcastr?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Thiagomdias22/podcastr?style=for-the-badge)
