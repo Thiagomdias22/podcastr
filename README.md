@@ -1,6 +1,12 @@
 # podcastr
 Uma plataforma construída para transmissão de podcast. Desenvolvido durante o treinamento gratuito @Rocketseat NLW # 05.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Thiagomdias22/podcastr?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Thiagomdias22/podcastr?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Thiagomdias22/podcastr?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Thiagomdias22/podcastr?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Thiagomdias22/podcastr?style=for-the-badge)
+
 <div align="center">
   <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
